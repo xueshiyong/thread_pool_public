@@ -1,0 +1,3 @@
+/home/xue241/桌面/webseverPart/thread_pool/cmake-build-debug/CMakeFiles/thread_pool.dir
+/home/xue241/桌面/webseverPart/thread_pool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xue241/桌面/webseverPart/thread_pool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
